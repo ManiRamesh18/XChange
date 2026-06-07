@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Centered Dual Loop circular vector asset -->
+    <path
+        android:fillColor="#14C28A"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 12,10 10,-4.48 10,-10S17.52,2 12,2zM12,20c-4.41,0 -8,-3.59 -8,-8s3.59,-8 8,-8 8,3.59 8,8 -3.59,8 -8,8z" />
+    
+    <!-- Top Swap Arrow pointing right -->
+    <path
+        android:fillColor="#80DBC3"
+        android:pathData="M15,16v-2.5H8v-2h7V9l4,3.5L15,16z" />
+
+    <!-- Bottom Swap Arrow pointing left -->
+    <path
+        android:fillColor="#14C28A"
+        android:pathData="M9,11V8.5h7v-2H9V4l-4,3.5L9,11z" />
+</vector>

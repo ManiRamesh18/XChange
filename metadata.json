@@ -1,0 +1,6 @@
+{
+  "name": "Xchange",
+  "description": "Premium Currency Converter & Exchange Rate Tracker with currency history and conversion log",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
